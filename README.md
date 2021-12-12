@@ -1,6 +1,5 @@
-# Full Stack open 2021: exercises for submission
 
-[Full Stack Open](https://fullstackopen.com/en 'Full Stack Open')
+# [Full Stack open 2021](https://fullstackopen.com/en 'Full Stack Open'): exercises for submission
 
 I'm using this repository to keep and submit the exercises from the FSO course.
 
