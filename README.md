@@ -2,4 +2,6 @@
 
 [Full Stack Open](https://fullstackopen.com/en 'Full Stack Open')
 
-Course started on 11/12/2021.
+I'm using this repository to keep and submit the exercises from the FSO course.
+
+I started this course on 11/12/2021.
