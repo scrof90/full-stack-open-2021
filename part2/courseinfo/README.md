@@ -2,7 +2,7 @@
 
 ## 2.1.-2.5.: course information
 
-Time taken: 1 hour
+Time taken: 1:30
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
